@@ -20,7 +20,6 @@ body {background-color:#000;
   height: 95vh;
   justify-content: end;
 }
-
 .title {
   padding: 0;
   margin: 0;
@@ -64,7 +63,7 @@ footer {
     padding-right: 20px;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
   background-color: #160b11;
-    background-image: linear-gradient(to bottom, #1a2217 0%, #223E20 100%);
+    background-image: linear-gradient(to bottom, #160b11 0%, #3d244c 100%);
 }
 
 .button-container {
@@ -75,6 +74,7 @@ footer {
 .button_2 {
     height: 4vh;
   width: 10vw;
+
     background-color: #201C42;
     color: white;
     border: none;
